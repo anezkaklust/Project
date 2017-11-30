@@ -1,5 +1,5 @@
-$(function() {
-    console.log( "ready!" );
-});
+$(document).ready(function() {
+  
 // SLIDESHOW
 
+});
