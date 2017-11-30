@@ -1,3 +1,6 @@
+$(function() {
+    console.log( "ready!" );
+});
 // SLIDESHOW
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
