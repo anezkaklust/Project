@@ -1,7 +1,11 @@
 /* SLIDESHOW */
+.nav.navbar-nav.navbar-right li a {
+    color: black;
+}
 
 .carousel {
   height: 100%;
 }
+
 
 
