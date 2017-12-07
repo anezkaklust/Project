@@ -104,11 +104,13 @@ body {
 .wel_header p {
     font-size: 16px;
     font-family: 'Open Sans', sans-serif;
+}
 
 #welcome .single_item {
     padding-top: 30px;
     text-align: center;
 }
+
 #welcome .welcome_icon {
     width: 100px;
     height: 100px;
