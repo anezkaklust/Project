@@ -397,6 +397,8 @@ input: -webkit-autofill:focus {
 #study {
     min-height: 290px;
     background-image: url("bgr.jpeg");
+    background-size: 100%;
+    background-position: center;
     background-repeat: no-repeat;
     padding: 30px;
 }
