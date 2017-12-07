@@ -438,6 +438,24 @@ input: -webkit-autofill:focus {
     font-family: 'Open Sans', sans-serif;
 }
 
+/*Transport*/
+#transport {
+	padding: 30px;
+	}
+
+/*Acoomodation*/
+#accomodation {
+	padding: 30px;
+	}
+
+/*Tips*/
+#tips {
+	padding: 30px;
+	}
+
+
+
+
 /*Portfolio*/
 
 #portfolio {
