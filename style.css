@@ -151,8 +151,6 @@ input: -webkit-autofill:focus {
     box-shadow: none;
 }
 
-/***************************/
-
 .zero_mp {
     padding: 0;
     margin: 0;
@@ -291,9 +289,6 @@ input: -webkit-autofill:focus {
 	font-style: italic;
 }
 
-/*Toggle panel*/
-
-
 
 
 
@@ -396,32 +391,37 @@ input: -webkit-autofill:focus {
     cursor: pointer;
 }
 
-/*Volunteer*/
+/*Studying*/
 
-#volunteer {
+
+#study {
     min-height: 290px;
-    background: #000000;
+    background-image: url("bgr.jpeg");
+    background-repeat: no-repeat;
+    padding: 30px;
 }
-#volunteer .volunteer_content h3 {
+#study .study_header h2 {
     font-size: 45px;
     text-transform: uppercase;
     font-weight: 700;
     color: #fff;
     padding-bottom: 10px;
     font-family: 'Open Sans', sans-serif;
+    text-align: center;
 }
-#volunteer .volunteer_content h3 span {
+#study .volunteer_content h3 span {
     color: #43a906;
 }
-#volunteer .volunteer_content p {
-    font-size: 14px;
+#study .study_header p {
+    font-size: 16px;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
+    text-align: center;
 }
 #volunteer .join_us {
     padding-top: 55px;
 }
-#volunteer .vol_area {
+#study .vol_area {
     padding: 80px 0;
 }
 #volunteer .join_us a.vol_cust_btn {
