@@ -283,6 +283,7 @@ input: -webkit-autofill:focus {
 .carousel-caption h1 {
 	font-family: "Raleway" !important;
 	font-weight: 700;
+	font-size: 60pt;
 }
 
 .carousel-caption h2 {
